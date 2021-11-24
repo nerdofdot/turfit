@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "115893912150",
+    "project_id": "turfit-nasik",
+    "storage_bucket": "turfit-nasik.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115893912150:android:7aca6b74b2f101e0d5f1f7",
+        "android_client_info": {
+          "package_name": "com.dotdevelopingteam.turfit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115893912150-vbqq6u7e24gki37mdoqhl5ohf93gq84s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb5LYYn0Cn-nUe8pk6hlFGyTE2HhMfD1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115893912150-vbqq6u7e24gki37mdoqhl5ohf93gq84s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

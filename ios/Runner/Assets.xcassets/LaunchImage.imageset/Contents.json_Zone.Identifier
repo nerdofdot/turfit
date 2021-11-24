@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://flutter.dev/
+HostUrl=https://storage.googleapis.com/flutter_infra/releases/stable/windows/flutter_windows_1.22.2-stable.zip
